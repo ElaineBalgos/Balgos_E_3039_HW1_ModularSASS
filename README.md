@@ -10,7 +10,7 @@ You  may check out other resources here:
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
 
 ### Prerequisites
-Adobe Creative Suites, Cinema 4D and Github!
+Text Editor _Visual Studio Code_
 
 ## Author
 Elaine Balgos
