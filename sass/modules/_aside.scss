@@ -18,7 +18,7 @@
 }
 
 .profileImg {
-    border: 3px solid white;
+    @include roundBorder(3px solid white);
 }
 
 .imgText {
