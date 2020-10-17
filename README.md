@@ -1,7 +1,10 @@
 # HW1 ModularSASS/Dynamic Content
 
 ### Description
-Converting CSS file to SASS. Categorizing the rules into logical sections. Using the SASS Language to create modules that compile a production-ready CSS file.
+To convert CSS file to SASS. Categorizing the rules into logical sections. Using the SASS Language to create modules that compile a production-ready CSS file.
+
+To create an AJAX request for the JSON file using the Fetch API or the XHTTP object. Use that
+application state to build out your application’s view (the course home page).
 
 
 ### Requirements
