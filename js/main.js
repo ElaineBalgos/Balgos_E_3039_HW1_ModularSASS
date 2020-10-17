@@ -19,7 +19,7 @@
     courseTemplate = document.querySelector("#course-template").content;
 
 
-    // make a function
+    // make a functiongit 
     function loadDataSet(data) {
 
         // make an action: get the object/s from the template
