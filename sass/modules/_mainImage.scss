@@ -59,11 +59,22 @@ body {
         font-size:2.2rem; 
         color:#690800; 
         margin-top:-8px; 
+        padding: 20px 0 0 20px;
     }
-    Text { 
+    
+    .text-muted { 
         position:$main-position; 
         top:10px; left:20px;
+
+        h2 {
+            color: red;
+        }
     }
+
+    .list-inline {
+        margin-left: 20px;
+    }
+
     ul { 
         color:#9e9e9e; 
         padding-top:5px; 
