@@ -1,7 +1,7 @@
 .yellowBoxNav {
     position:$main-position;
     display:$main-display;
-    /*float:right;*/
+    float:right;
     margin-right:30px;
     text-align: center;
     vertical-align: middle;
@@ -29,6 +29,7 @@
     cursor:$main-cursor;
 
    li {
+       
        position:$main-position; 
        margin-right:5px;
     }
